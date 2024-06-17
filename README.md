@@ -1,4 +1,4 @@
-# eat-the-frog-app
+# Eat the Frog
 
 ```
            .--._.--.
