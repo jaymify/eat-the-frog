@@ -19,51 +19,6 @@ _ _`.    \  |  |  |  /    .'_ _
 
 I am looking to extend the range of my portfolio by creating a productivity application called "Eat the Frog". This app will help users tackle their most challenging tasks, known as "frogs", through a gamified experience.
 
-
-### Core Features
-
-I have identified the following features that should be implemented in the first release of the application:
-
-- The user should be able to add a task to the app
-- A task should have at least a title and description
-- The user should be able to mark a task as complete
-- The user should be able to delete a task
-- The user should be able to edit a task's details
-- Duplicate task titles should not be allowed
-- The user should be able to view all tasks in the app
-- The user should interact with the application through a console interface
-
-
-### Additional Features
-
-In addition to these core features, the I would like to see these in the application if time permits:
-
-- The user should be able to prioritise tasks
-- The user should be able to set deadlines for tasks
-- The user should be able to search for a task by title and have the results displayed
-- The user should be able to view tasks by their priority or deadline
-- The user should be able to delete all tasks at once, confirming that they want to do this before proceeding
-
----
-
-## Tasks
-
-1. Add documentation why the user needs this software and the benefits that it will bring to them:
-   - The problem that the software will solve
-   - The benefits that the software will bring to the user
-   - The impact that the software will have on the user's business
-2. From the requirements listed above, create user stories that break the functionality required down.
-3. From the user stories, create domain models and/or class diagrams for the core features of the application:
-   - The classes that I will need to create
-   - The data types of each attribute
-   - The access modifiers of each attribute and method
-   - The return types of each method
-   - The relationships between the classes
-4. Using a test-driven approach, implement the core features of the application.
-5. Create an application that will put some tasks in the application, run in the GUI, and take the user's input to navigate a menu to use the features.
-
----
-
 ## Eat the Frog Brief
 
 Gamifying a productivity app called "Eat the Frog" can make tackling challenging tasks more engaging and motivating. Here are some ideas to incorporate gamification elements into my app, with the addition of Pomodoro combos:
@@ -118,3 +73,47 @@ Gamifying a productivity app called "Eat the Frog" can make tackling challenging
 - **Social Feature Controls**: Enable users to turn off social features like direct messages and party invites.
 
 By incorporating these gamification elements and the Pomodoro technique, "Eat the Frog" can transform routine productivity into an engaging, motivating experience, helping users tackle their toughest tasks with more enthusiasm and persistence.
+
+---
+
+### Core Features
+
+I have identified the following features that should be implemented in the first release of the application:
+
+- The user should be able to add a task to the app
+- A task should have at least a title and description
+- The user should be able to mark a task as complete
+- The user should be able to delete a task
+- The user should be able to edit a task's details
+- Duplicate task titles should not be allowed
+- The user should be able to view all tasks in the app
+- The user should interact with the application through a console interface
+
+
+### Additional Features
+
+In addition to these core features, the I would like to see these in the application if time permits:
+
+- The user should be able to prioritise tasks
+- The user should be able to set deadlines for tasks
+- The user should be able to search for a task by title and have the results displayed
+- The user should be able to view tasks by their priority or deadline
+- The user should be able to delete all tasks at once, confirming that they want to do this before proceeding
+
+---
+
+## Tasks
+
+1. Add documentation why the user needs this software and the benefits that it will bring to them:
+   - The problem that the software will solve
+   - The benefits that the software will bring to the user
+   - The impact that the software will have on the user's business
+2. From the requirements listed above, create user stories that break the functionality required down.
+3. From the user stories, create domain models and/or class diagrams for the core features of the application:
+   - The classes that I will need to create
+   - The data types of each attribute
+   - The access modifiers of each attribute and method
+   - The return types of each method
+   - The relationships between the classes
+4. Using a test-driven approach, implement the core features of the application.
+5. Create an application that will put some tasks in the application, run in the GUI, and take the user's input to navigate a menu to use the features.
