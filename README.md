@@ -17,7 +17,7 @@ _ _`.    \  |  |  |  /    .'_ _
 
 ## Introduction
 
-I am looking to extend its range of my portfolio by creating a productivity application called "Eat the Frog". This app will help users tackle their most challenging tasks, known as "frogs", through a gamified experience.
+I am looking to extend the range of my portfolio by creating a productivity application called "Eat the Frog". This app will help users tackle their most challenging tasks, known as "frogs", through a gamified experience.
 
 
 ### Core Features
