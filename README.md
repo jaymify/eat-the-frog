@@ -107,7 +107,7 @@ In addition to these core features, the I would like to see these in the applica
 1. Add documentation why the user needs this software and the benefits that it will bring to them:
    - The problem that the software will solve
    - The benefits that the software will bring to the user
-   - The impact that the software will have on the user's business
+   - The impact that the software will have on the user's productivity (ie. their business)
 2. From the requirements listed above, create user stories that break the functionality required down.
 3. From the user stories, create domain models and/or class diagrams for the core features of the application:
    - The classes that I will need to create
